@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Colores para la pantalla-->
+    <color name="app_splash">#70D0F6</color>
+    <color name="app_fondo">#E7F7F4</color>
+    <color name="app_name">#113F47</color>
+    <color name="app_texto">#1A1A1A</color>
+    <color name="boton_upload">#000000</color>
+    <color name="boton_try_again">#171918</color>
+
+    <color name="item_seccion">#9EE1D5</color>
+
+    <color name="borde_item_detect">#FF6B00</color>
+    <color name="item_detect">#ECDBC3</color>
+    <color name="borde_item_desconocido">#222222</color>
+    <color name="item_desconocido">#B6B6B6</color>
+</resources>

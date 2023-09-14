@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Forest App</string>
+
+    <!--Bienvenida 1-->
+    <string name="bienvenida_1_titulo">¡Bienvenidos a Forest App!</string>
+    <string name="bienvenida_1_descripcion">Esta aplicación puede ayudarte a contar árboles de una especie usando un modelo entrenado y robusto para la detección de objetos.</string>
+
+    <!--Bienvenida 2-->
+    <string name="bienvenida_2_titulo">¡Deja que la IA lo haga por ti!</string>
+    <string name="bienvenida_2_descripcion">Automatiza el conteo de las especies de árboles en bosques no explorados. Simplemente toma fotos aéreas de un grupo de árboles y la aplicación automáticamente contará los árboles por ti.</string>
+
+    <!--Main Activity-->
+    <string name="main_secc1_titulo">Forest App</string>
+    <string name="main_secc1_descripcion">Forest App es herramienta precisa y fácil de usar para contar árboles. La aplicación puede ser utilizada por científicos, investigadores, planificadores y cualquier persona que necesite contar árboles.</string>
+    <string name="main_secc2_titulo">Contar especies</string>
+    <string name="main_secc2_descripcion">Suba la foto aérea tomada por su UAV (vehículo aéreo no tripulado) y permita que la app cuente la especie por usted.</string>
+
+    <!--Conteo Activity-->
+    <string name="conteo_secc1_titulo">Conteo de especies terminada</string>
+    <string name="conteo_secc1_subtitulo_1">Especies detectadas</string>
+
+    <!--Botones-->
+    <string name="btn_subir_foto">Subir foto desde galería</string>
+    <string name="btn_intentar">Intentar de nuevo</string>
+</resources>

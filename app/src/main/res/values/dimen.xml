@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Tamaño de la fuente-->
+    <dimen name="sp_app_name">22sp</dimen>
+    <dimen name="sp_nivel_0">10sp</dimen>
+    <dimen name="sp_nivel_1">11sp</dimen> <!--Descripcion de fotos-->
+    <dimen name="sp_nivel_2">12sp</dimen>
+    <dimen name="sp_nivel_3">14sp</dimen> <!--Párrafo-->
+    <dimen name="sp_nivel_4">16sp</dimen> <!--Subtítulos-->  <!--Descripcion de guia de bienvenida-->
+    <dimen name="sp_nivel_5">18sp</dimen>
+
+    <dimen name="sp_nivel_6">20sp</dimen> <!--Títulos-->
+
+    <dimen name="sp_nivel_7">22sp</dimen>
+    <dimen name="sp_nivel_8">24sp</dimen> <!--Título de guia de bienvenida-->
+
+    <!--Padding-->
+    <dimen name="pad_body">25dp</dimen>
+    <dimen name="pad_item">10dp</dimen>
+    <!--Padding generales-->
+    <dimen name="pad_1">5dp</dimen>
+    <dimen name="pad_2">10dp</dimen>
+    <dimen name="pad_3">15dp</dimen>
+    <dimen name="pad_4">20dp</dimen>
+    <dimen name="pad_5">25dp</dimen>
+
+    <!--Margin generales-->
+    <dimen name="mrg_1">5dp</dimen>
+    <dimen name="mrg_2">10dp</dimen>
+    <dimen name="mrg_3">15dp</dimen>
+    <dimen name="mrg_4">20dp</dimen>
+    <dimen name="mrg_5">25dp</dimen>
+
+    <!--Radio-->
+    <dimen name="rd_img_carousel">10dp</dimen>
+
+    <!--logo-->
+    <dimen name="dp_logo">90dp</dimen>
+</resources>
